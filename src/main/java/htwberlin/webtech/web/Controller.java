@@ -10,4 +10,19 @@ public class Controller {
     public String getData() {
         return "Hello from backend!";
     }
+    static class DataResponse {
+        private String message;
+
+        public DataResponse(String message) {
+            this.message = message;
+        }
+
+        public String getMessage() {
+            return message;
+        }
+
+        public void setMessage(String message) {
+            this.message = message;
+        }
+    }
 }
