@@ -1,4 +1,4 @@
-In dieser Website erhält der Nutzer eine Übersicht über all die kommenden Veröffentlichungen, seien es Filme, Serien, Spiele, etc. Hierbei kann er, von ihm ausgewählte, baldige Veröffentlichungen favorisieren. Der Nutzer erhält, nach der Veröffentlichung eines als Favorit gespeicherten Films, etc eine Pop-Up Erinnerung nach dem nächsten Einloggen.
+In dieser Website erhält der Nutzer eine Übersicht über all die kommenden Veröffentlichungen, seien es Filme, Serien, Spiele, etc. Hierbei kann er, von ihm ausgewählte, baldige Veröffentlichungen favorisieren.
 
 Mitglieder: 
 Abdullah Noor Mohammad-Behrendt
